@@ -1,5 +1,5 @@
 <h2> Hey, I'm Alla - 👋 </h2>
-<h4>your local frontend developer, based in the incredible city of Istanbul, Turkey.</h4>
+<h4>your dedicated frontend developer, thriving in the incredible city of Istanbul, Turkey.</h4>
 
 <p><img src="./images/gimmeCode.gif" width="200px" alt="GIF with a cat that wants to code"></p>
 
