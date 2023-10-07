@@ -7,7 +7,7 @@
 - 🌱 I’m also in the process of learning Javascript and ReactJs to further expand my expertise.
 - 💬 Ask me about tech, investments and jewelry
 - ⚡ Fun fact: ...
-  
+
 <h3>Connect with me:</h3>
 <a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
 <a href="mailto:melikhovainna@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
