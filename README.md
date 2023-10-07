@@ -1,4 +1,4 @@
-<h2> Hey, I'm Alla - 👋 </h2>
+<h2 align="center"> Hey, I'm Alla - 👋 </h2>
 <h4>your dedicated frontend developer, thriving in the incredible city of Istanbul, Turkey.</h4>
 
 <p align="center"><img src="./icons/cats.gif" width="200px" alt="GIF with a cat that is coding"></p>
@@ -9,8 +9,8 @@
 - ⚡ Fun fact: ...
 
 <h3>Connect with me:</h3>
-<a href="https://t.me/NesyaNesya" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
-<a href="mailto:melikhovainna@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
+<a href="https://t.me/AllaOzcan" target="_blank"><img align="center" src="./icons/telegram.svg" alt="telegram icon" height="40" width="40" /></a>
+<a href="mailto:ozcanalla@gmail.com" target="_blank"><img align="center" src="./icons/gmail.svg" alt="gmail icon" height="40" width="40" /></a>
 
 <h3>Technologies:</h3>
 <p>
