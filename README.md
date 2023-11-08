@@ -15,11 +15,11 @@
 <h3>Technologies:</h3>
 <p>
 <a href="https://www.w3schools.com/css/" target="blank" > <img src="./icons/css3.svg" alt="css3 icon" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="./icons/html5.svg" alt="html5 icon" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="blank"> <img src="./icons/html5.svg" alt="html5 icon" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="./icons/javascript.svg" alt="javascript icon" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" > <img src="./icons/react.svg" alt="react icon" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.svg" alt="git icon" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" > <img src="./icons/sass.svg" alt="sass icon" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img src="./icons/bootstrap.svg" alt="bootstrap icon" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank"> <img src="./icons/chart.svg" alt="chartjs icon" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="blank" > <img src="./icons/react.svg" alt="react icon" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="blank"> <img src="./icons/git.svg" alt="git icon" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="blank" > <img src="./icons/sass.svg" alt="sass icon" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="blank"> <img src="./icons/bootstrap.svg" alt="bootstrap icon" width="40" height="40"/> </a> 
+<a href="https://www.chartjs.org" target="blank"> <img src="./icons/chart.svg" alt="chartjs icon" width="40" height="40"/> </a>
 </p>
